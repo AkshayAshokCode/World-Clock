@@ -1,0 +1,12 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:windowTranslucentNavigation">false</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="colorPrimary">#F8F7FA</item>
+        <item name="colorPrimaryDark">#0242A5</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+</resources>
